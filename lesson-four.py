@@ -5,5 +5,3 @@ while count < 35:
     
     if count == 15: 
         break
-    else
-        continue
